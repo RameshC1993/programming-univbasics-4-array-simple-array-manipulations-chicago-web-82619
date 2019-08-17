@@ -1,7 +1,7 @@
 def using_push(array, string)
   array.push(string)
 end
-
+=begin
 def using_unshift(array, string)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   new_neighborhood = "Staten Island"
@@ -51,7 +51,7 @@ def using_flatten(array)
 end
 
 def using_delete(array, string)
-  
+=end  
   
   
   
